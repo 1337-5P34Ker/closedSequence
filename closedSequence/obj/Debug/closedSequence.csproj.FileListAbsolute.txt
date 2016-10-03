@@ -1,0 +1,6 @@
+c:\users\snoopy\documents\visual studio 2015\Projects\closedSequence\closedSequence\bin\Debug\closedSequence.exe.config
+c:\users\snoopy\documents\visual studio 2015\Projects\closedSequence\closedSequence\obj\Debug\closedSequence.csprojResolveAssemblyReference.cache
+c:\users\snoopy\documents\visual studio 2015\Projects\closedSequence\closedSequence\bin\Debug\closedSequence.exe
+c:\users\snoopy\documents\visual studio 2015\Projects\closedSequence\closedSequence\bin\Debug\closedSequence.pdb
+c:\users\snoopy\documents\visual studio 2015\Projects\closedSequence\closedSequence\obj\Debug\closedSequence.exe
+c:\users\snoopy\documents\visual studio 2015\Projects\closedSequence\closedSequence\obj\Debug\closedSequence.pdb
